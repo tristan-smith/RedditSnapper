@@ -10,6 +10,5 @@ Add user "testingthisbot" on snapchat to get updates.
 If you'd like to run these bots yourself, you just have to change the usernames in
 BotMain, as well as have the following libraries:
 
-[JReddit](https://github.com/karan/jReddit).
-
-[JavaSnap](https://github.com/hatboysam/JavaSnap).
+* [JReddit](https://github.com/karan/jReddit)
+* [JavaSnap](https://github.com/hatboysam/JavaSnap)

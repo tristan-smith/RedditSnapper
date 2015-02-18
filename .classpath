@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Tristan/Documents/Code/Java/Libraries/JavaSnap-2.0-SNAPSHOT-withDependency-ShadedForAndroid.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tristan/Documents/Code/Java/Libraries/jreddit-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tristan/Documents/Code/Java/Libraries/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tristan/Documents/Code/Java/Libraries/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tristan/Documents/Code/Java/Libraries/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tristan/Documents/Code/Java/Libraries/httpcomponents-client-4.4/lib/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tristan/Documents/Code/Java/Libraries/httpcomponents-client-4.4/lib/httpcore-4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

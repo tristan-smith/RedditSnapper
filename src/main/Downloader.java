@@ -7,6 +7,12 @@ import java.io.IOException;
 import java.net.URL;
 import javax.imageio.ImageIO;
 
+/**
+ * Helper class to download images from url
+ * @author Tristan Smith
+ * @version 2015-2-22
+ *
+ */
 public class Downloader {
 	private URL url;
 	private BufferedImage image;

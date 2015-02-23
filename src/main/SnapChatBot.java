@@ -5,6 +5,13 @@ import java.util.ArrayList;
 import com.habosa.javasnap.Friend;
 import com.habosa.javasnap.Snapchat;
 
+/**
+ * Uploads files from the resource folder according to the file list from RedditBot
+ * to the snapchat bot's story
+ * @author Tristan Smith
+ * @version 2015-2-22
+ *
+ */
 public class SnapChatBot {
 	String username;
 	Snapchat snapchat;

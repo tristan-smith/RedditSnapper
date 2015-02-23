@@ -13,6 +13,12 @@ import com.github.jreddit.retrieval.params.SubmissionSort;
 import com.github.jreddit.utils.restclient.HttpRestClient;
 import com.github.jreddit.utils.restclient.RestClient;
 
+/**
+ * Pulls top 10 jpg links from subreddit /r/funny
+ * @author Tristan Smith
+ * @version 2015-2-22
+ *
+ */
 public class RedditBot {
 
 	private String use;
@@ -27,8 +33,7 @@ public class RedditBot {
 		files = new ArrayList<String>(0);
 		// initialize rest client
 		RestClient restClient = new HttpRestClient();
-		restClient
-				.setUserAgent("test bot by /u/hayisntforhorses, only retrieves so far");
+		restClient.setUserAgent("test bot by /u/hayisntforhorses, only retrieves so far");
 
 		// connect the user
 		use = username;

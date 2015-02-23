@@ -5,6 +5,12 @@ import java.awt.Image;
 
 import javax.swing.*;
 
+/**
+ * Just opens the pictures to check if they downloaded correctly
+ * @author Tristan Smith
+ * @version 2015-2-22
+ *
+ */
 public class TestGUI extends JFrame {
 	Image img;
 	JPanel j;
